@@ -1,12 +1,12 @@
  </h1> 
-<p align="center">𝙹𝚘𝚎𝚕 𝚖𝚍 𝚅 𝟺.𝟶.𝟶
+<p align="center">POPKID MD V4.0.0
  
- <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=JOEL THE BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+JOEL+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID MD BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+POPKID+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
  <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
  <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/4bd49693e6bccf3271681.jpg">
   
 </h1> 
-<p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> 𝚓𝚘𝚎𝚕  𝚖𝚍 </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
+<p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> POPKID MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
 
 
   <div align="center">
@@ -26,7 +26,7 @@
 
 
 
-  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐉𝐎𝐄𝐋 𝐌𝐃 𝐕 𝟒**
+  **HOW TO DEPLOY POPKID MD V𝟒**
 
  
 
@@ -83,7 +83,7 @@
 
 <table>
   <tr>
-    <td>𝚓𝚘𝚎𝚕_𝚝𝚎𝚌𝚑</td>
+    <td>POPKID TECH</td>
     <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@
 
 
 
- *𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 𝚓𝚘𝚎𝚕 𝚖𝚍 𝚋𝚘𝚝*
+ *POPKID MD BEST WHATSAPP BOT*
 
 
 
@@ -117,7 +117,9 @@
 
 
 
-*𝙽𝚘𝚝𝚎* :*𝚓𝚘𝚎𝚕 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
+*𝙽𝚘𝚝𝚎* :*Popkid 𝚖𝚍 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
+
++254111385747
 
 
 

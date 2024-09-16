@@ -3,7 +3,7 @@
  
  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID MD BOT +WHATSAPP; MULTI+SERVICE+REVOLUTIONIZES;CREATE+BY+POPKID+TECH;BOT DATED+06.6.2024" alt="Typing SVG" /></a>
  <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
- <img alt="POPKIDS BUG BOT" height="300" src="https://telegra.ph/file/4bd49693e6bccf3271681.jpg">
+ <img alt="POPKIDS BUG BOT" height="300" src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg">
   
 </h1> 
 <p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> POPKID MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
@@ -87,8 +87,8 @@
     <td>𝚠𝚊 𝚌𝚑𝚊𝚗𝚗𝚎𝚕</td>
   </tr>
   <tr>
-    <td><a href="https://wa.link/e9lbut"><img src="https://telegra.ph/file/7cbfc792540bfb6f974f6.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img src="https://telegra.ph/file/dd9036cd4a22846c6e2a5.jpg" width="180"</td>
+    <td><a href="https://wa.link/e9lbut"><img src="https://i.ibb.co/JyNgPx0/IMG-20240916-WA0014.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img src="https://i.ibb.co/kJYQ1PV/IMG-20240916-WA0017.jpg" width="180"</td>
   </tr>
 </table>
 
@@ -100,8 +100,8 @@
     <td>𝚃𝚒𝚔 𝚝𝚘𝚔</td>
   </tr>
   <tr>
-    <td><a href="https://youtube.com/@joeltech255?si=rqhYlAhFtqK7CVX2"><img src="https://telegra.ph/file/864b974e301ccac54c793.jpg" width="180"</td>
-    <td><a href="https://www.tiktok.com/@joeljamestech"><img src="https://telegra.ph/file/89750a960df185dcf5fd9.jpg" width="180"</td>
+    <td><a href="https://youtube.com/@joeltech255?si=rqhYlAhFtqK7CVX2"><img src="https://i.ibb.co/kJYQ1PV/IMG-20240916-WA0017.jpg" width="180"</td>
+    <td><a href="https://www.tiktok.com/@joeljamestech"><img src="https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg" width="180"</td>
   </tr>
 </table>
 

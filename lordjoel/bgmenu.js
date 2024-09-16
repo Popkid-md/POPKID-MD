@@ -48,12 +48,12 @@ zokou({ nomCom: "bugmenu", categorie: "Menu" }, async (dest, zk, commandeOptions
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
-  ╭────༺Lord༻───╮
+  ╭────༺Ian༻───╮
    ❑rapebug <amount>
    ❒fuckbug <amount>
    ❒myloccation<location>
-   ❒joeldocbug<docbug>
-  ╰────༺joel༻────╯ \n\n`;
+   ❒popkiddocbug<docbug>
+  ╰────༺popkid༻────╯ \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
             emoji[cat] = "";
@@ -63,7 +63,7 @@ zokou({ nomCom: "bugmenu", categorie: "Menu" }, async (dest, zk, commandeOptions
             menuMsg += "";
         }
     }
-    var link = "https://telegra.ph/file/07a6fca837d4d974afb00.jpg";
+    var link = "https://i.ibb.co/12Fr0XZ/IMG-20240916-WA0015.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©TKM INC" }, { quoted: ms });
     }

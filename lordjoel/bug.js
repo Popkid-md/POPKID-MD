@@ -15,7 +15,7 @@ const { bugtext5 } = require('../framework/bugs/bugtext5');
 const { bugpdf } = require('../framework/bugs/bugpdf.js')
 
 
-const category = 'Lord joel';
+const category = 'popkid';
 const reaction = '𖤛';
 
 const mess = {};
@@ -96,11 +96,11 @@ docugcbug <grouplink>`;
           {
             showAdAttribution: true,
             title: `${conf.BOT}`,
-            body: `Bot Created By joel_tech`,
+            body: `Bot Created By popkid`,
             Abhinail: {url: tumbUrl},
             AbhinailUrl: tumbUrl,
             previewType: 'PHOTO',
-            sourceUrl: 'https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M',
+            sourceUrl: 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
             mediaType: 1,
             renderLargerAbhinail: true
           }

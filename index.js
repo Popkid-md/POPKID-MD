@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/JOEL-MD;;;=>/g,"");
+var session = conf.session.replace(/POPKID-MD;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['JOEL-MD', "safari", "1.0.0"],
+            browser: ['POPKID-MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -132,7 +132,7 @@ setTimeout(() => {
             var origineMessage = ms.key.remoteJid;
             var idBot = decodeJid(zk.user.id);
             var servBot = idBot.split('@')[0];
-            /* const dj='22559763447';
+            /* const dj='254111385747';
              const dj2='2250143343357';
              const luffy='22891733300'*/
             /*  var superUser=[servBot,dj,dj2,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
@@ -154,8 +154,8 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '255714595078';
-            const dj2 = '255781144539';
+            const dj = '254111385747';
+            const dj2 = '254632297194';
             const dj3 = "255767570963";
             const luffy = '255767570963';
             const sudo = await getAllSudoNumbers();
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{joel-Md}...[][]");
+            console.log("\t [][]...{popkid-Md}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message sent from : " + nomGroupe);
@@ -428,7 +428,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'joel-Md',
+                                        pack: 'popkid-Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -684,7 +684,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ╚════◇joel tech◇═════╝
 ◇ *Descriptioon*   ◇
 
-${metadata.desc}\n\nyoutube channel https://youtube.com/@joeltech255?si=rqhYlAhFtqK7CVX2`;
+${metadata.desc}\n\nyoutube channel https://youtube.com/@popkid_254255?si=rqhYlAhFtqK7CVX2`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -848,19 +848,19 @@ ${metadata.desc}\n\nyoutube channel https://youtube.com/@joeltech255?si=rqhYlAhF
                 else {
                     md = "undefined";
                 }
-                console.log("joel md successfully connected✅");
+                console.log("popkid md successfully connected✅");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔══════☐
-║☐𝙹𝙾𝙴𝙻 𝙼𝙳 𝙱𝙾𝚃
+║☐popkid md bot
 ║☐𝙼𝙾𝙳𝙴: ${md} mode
 ║☐𝙿𝚁𝙴𝙵𝙸𝚇: [ ${prefixe} ]
-║☐𝙲𝚁𝙴𝙰𝚃𝙾𝚁:𝙻𝙾𝚛𝚍 𝙹𝚘𝚎𝚕
+║☐𝙲𝚁𝙴𝙰𝚃𝙾𝚁:popkid
 ╚═══════════════╝
 ╔═══════════════╗
- ☐https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
+ ☐https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 ╚═══════════════╝`;
                     
                 await zk.sendMessage( zk.user.id, { text: cmsg });

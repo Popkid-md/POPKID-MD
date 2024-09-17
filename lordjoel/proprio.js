@@ -14,7 +14,7 @@ const{repondre,ms,dev,superUser}=com;
 
   if(!superUser)
   {
-    return repondre("This command is for owner or joel tech");
+    return repondre("This command is for owner or popkid tech");
   }
 
   const {exec}=require("child_process")

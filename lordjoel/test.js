@@ -7,11 +7,11 @@ zokou(
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
-            "Hello my name is  *joel md* \n\n " +
+            "Hello my name is  *popkid md* \n\n " +
             "i'm a whatsapp bot multi-device";
-        let d = " by *lord joel*";
+        let d = " by *popkid*";
         let varmess = z + d;
-        var img = "https://telegra.ph/file/e8311b969d1cb5ce67da8.jpg";
+        var img = "https://i.ibb.co/BNvstq2/IMG-20240916-WA0016.jpg";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
         //console.log("montest")
     }
@@ -41,7 +41,7 @@ const sentMsg1  = await zk.sendMessage(dest, { text: 'oh hello there' })
 // send a reply messagge
 const sentMsg2  = await zk.sendMessage(dest, { text: 'oh hello there' }, { quoted: ms })
 // send a mentions message
-const sentMsg3  = await zk.sendMessage(dest, { text: '@255714595078', mentions: ['12345678901@s.whatsapp.net'] })
+const sentMsg3  = await zk.sendMessage(dest, { text: '@254111385747', mentions: ['12345678901@s.whatsapp.net'] })
 // send a location!
 const sentMsg4  = await zk.sendMessage(
     dest, 
@@ -52,7 +52,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:lord joel\n' // full name
             + 'ORG:Ashoka Uni;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=255714595078:+255 71459 5078\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=254111385747:+253 1113 85747\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 const sentMsg5  = await zk.sendMessage(
     dest,
@@ -83,7 +83,7 @@ const sentMsg6 = await zk.sendMessage(dest, buttonMessage)
 //send a template message!
 const templateButtons = [
     {index: 1, urlButton: {displayText: '⭐ Star Baileys on GitHub!', url: 'https://github.com/adiwajshing/Baileys'}},
-    {index: 2, callButton: {displayText: 'Call me!', phoneNumber: '+255 71459 5078'}},
+    {index: 2, callButton: {displayText: 'Call me!', phoneNumber: '+254 11137 5747'}},
     {index: 3, quickReplyButton: {displayText: 'This is a reply, just like normal buttons!', id: 'id-like-buttons-message'}},
 ]
 

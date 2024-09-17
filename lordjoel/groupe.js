@@ -32,7 +32,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   var tag = ""; 
   tag += `╔══════════════╗
 \n  
-        𝙹𝙾𝚎𝚕 𝚖𝚍 𝚟𝟼
+        popkid md v7
 ╚══════════════╝
 \n
  Group : ${nomGroupe} 🚀 
